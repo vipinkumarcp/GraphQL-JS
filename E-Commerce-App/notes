@@ -1,0 +1,3 @@
+two types of data can be returned in graph ql
+1. scalar type : string,int,float,boolean
+2.object types
